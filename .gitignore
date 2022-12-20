@@ -1,0 +1,7 @@
+*.pyc
+chain.txt
+venv/
+build/
+dist/
+blockshell/
+blockshell.egg-info/
